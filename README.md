@@ -1,4 +1,4 @@
-# ZIG BASICS
+# [Z]ZIG PROGRAMMING LANGUAGE
 
 ## ZIG Overview
 
